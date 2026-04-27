@@ -1,0 +1,15 @@
+start 
+declare variables n1 n2,n3 and sum
+read values of n1,n2 and n3
+add variables n1,n2 and n3 assin the result to sum
+sum = n1 + n2 + n3
+display sum
+stop
+hw.write algorithem for area of rectangle
+start 
+declare variables l,b and area
+read values of l,b
+get product variables l and b assin the result to area
+area = l x b
+display area
+stop
