@@ -14,5 +14,3 @@ text = revText
 print("The reversed string is:")
 
 print(text)
-
-#end
