@@ -4,3 +4,15 @@
 # 3) Replace `text` with the reversed string (set `text` equal to `revText`).
 # 4) Print a message saying you are showing the reversed string.
 # 5) Print the reversed string stored in `text`.
+
+text = input("Enter a word or sentence: ")
+
+revText = text[::-1]
+
+text = revText
+
+print("The reversed string is:")
+
+print(text)
+
+#end

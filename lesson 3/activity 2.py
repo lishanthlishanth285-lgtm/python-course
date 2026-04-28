@@ -43,4 +43,3 @@ print(weight)
 
 print(type(weight))
 
-#end
