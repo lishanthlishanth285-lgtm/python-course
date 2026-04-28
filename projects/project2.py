@@ -13,5 +13,3 @@ jimmy_birthday = "Jimmy's birthday is on December 5th."
 # Printing the birthdays
 
 print("\n",james_birthday,"\n",lily_birthday,"\n",michael_birthday,"\n",lishanth_birthday,"\n",jimmy_birthday)
-
-#end
