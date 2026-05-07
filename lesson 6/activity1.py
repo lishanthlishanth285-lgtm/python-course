@@ -34,3 +34,4 @@ if a > 0 or b > 0 or c > 0:
     print("Either is greater than 0")
 else:
     print("No number is greater than 0")
+    
