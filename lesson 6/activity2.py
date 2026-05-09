@@ -43,3 +43,5 @@ if a != b:
     print("true-they are different")
 else:    
     print("false-they are same")
+
+#step 6
