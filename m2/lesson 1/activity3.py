@@ -18,3 +18,28 @@
 
 # 5) Else (if `choice` is not 1 or 2):
 #    Print "Wrong choice!"
+
+print("Select a ride:")
+print("1 for Bike")
+print("2 for Car")
+choice = int(input("Enter your choice: "))
+if choice == 1:
+    print("Select bike type:")
+    print("1 for Scooty")
+    print("2 for Scooter")
+    choice2 = int(input("Enter your choice: "))
+    if choice2 == 1:
+        print("You have selected scooty")
+    else:
+        print("You have selected scooter")
+elif choice == 2:
+    print("Select car type:")
+    print("1 for Sedan")
+    print("2 for XUV")
+    choice3 = int(input("Enter your choice: "))
+    if choice3 == 1:
+        print("You have selected sedan")
+    else:
+        print("You have selected XUV")
+else:
+    print("Wrong choice!")
