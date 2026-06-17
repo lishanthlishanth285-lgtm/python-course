@@ -21,3 +21,4 @@ else:
         print("Allow to write exam")
     else:
         print("Not allowed to write exam")
+    #finis
